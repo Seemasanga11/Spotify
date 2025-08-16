@@ -75,8 +75,17 @@ Feel free to open a PR or raise an issue.
 
 ---
 
-## 📜 License
+## License
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### Stay Updated 
+
+For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media :
+
+- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/_.ellieee__/)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/seema-sanga-79a23316b/)
+
+Thank you for your support, and I look forward to connecting with you!+
 
 
